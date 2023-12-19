@@ -1,0 +1,40 @@
+.body{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.Ueberschriftbox{
+    font-family: Verdana, Arial, sans-serif;
+    background-color: rgba(165, 194, 128);
+    display:  table;
+    border: 5px solid rgba(9, 133, 216, 0.258);
+    margin: 150px auto 150px auto;
+    padding: 0px 50px;
+    color: rgb(47, 29, 49);
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 0.5em;
+    border-radius: 20px;
+}
+.back{
+    background-color: rgba(46, 15, 247, 0.129);
+    display: table;
+    margin: 40px auto;
+    padding: 0px 10px;
+    font-size: 30px;
+    border: 4px static yellow;
+    border-radius: 3px;
+}
+.teacherdesc{
+    font-family: Verdana, Arial, sans-serif;
+    position: sticky;
+    top: 0px;
+    background-color:aquamarine;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.teacherbild{
+    border: 3px solid black;
+}
+.teachertext{
+    border: 1px solid black;
+}

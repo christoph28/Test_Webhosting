@@ -1,0 +1,47 @@
+/*h1 {
+    font-size: 2.5em;
+    color: rgb(47, 29, 49);
+    letter-spacing: 0.25em ;
+}*/
+
+.Ueberschriftbox{
+    font-family: Verdana, Arial, sans-serif;
+    background-color: rgba(165, 194, 128);
+    display:  table;
+    border: 5px solid rgba(9, 133, 216, 0.258);
+    margin: 150px auto 150px auto;
+    padding: 0px 50px;
+    color: rgb(47, 29, 49);
+    font-size: 25px;
+    font-weight: bolder;
+    letter-spacing: 0.5em;
+    border-radius: 20px;
+}
+
+body{
+    background-image: url('../Bilder/imageonline-co-noisedimage.png');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: auto;
+
+}
+
+.Theobox{
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.75em;
+    text-shadow: 1px 1px 2px rgba(0, 255, 38, 0), 0 0 1em rgb(66, 255, 205, 0.5), 0 0 0.5em rgb(70, 255, 200, 0.5);
+    margin: 100px;
+}
+
+.Werkbox{
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 1.75em;
+    text-shadow: 1px 1px 2px rgba(0, 26, 255, 0), 0 0 1em rgba(66, 255, 205, 0.5), 0 0 0.5em rgba(70, 255, 200, 0.5);
+    margin: 100px ;
+}
+
+.distance{
+    margin: 150px;
+}

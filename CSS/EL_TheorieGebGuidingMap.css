@@ -1,0 +1,69 @@
+.Ueberschriftbox{
+    font-family: Verdana, Arial, sans-serif;
+    background-color: rgb(173, 207, 127);
+    color: rgb(47, 29, 49);
+    text-align: center;
+    font-size: 20px;
+
+    display: table;
+    margin: auto;
+    border: 5px solid rgba(9, 133, 216, 0.258);
+    border-radius: 20px;
+    padding-top:auto ;
+    padding-bottom:auto ;
+    padding-left:100px ;
+    padding-right:100px; 
+}
+.back{
+    background-color: rgba(46, 15, 247, 0.129);
+    display: table;
+    margin: 40px auto;
+    padding: 0px 10px;
+    font-size: 30px;
+    border: 4px static yellow;
+    border-radius: 3px;
+}
+.guide{
+    
+    /*border: 5px solid rgb(0, 0, 0);*/
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.gang{
+    border: 5px solid green;
+    transform: rotate(-90deg);
+    background-size: cover;
+    
+    position:relative;
+    top:1000px ;
+    scale: 1.5;
+}
+.room1{
+    border: 5px solid red;
+    transform: rotate(-90deg);
+    scale: 1.4;
+
+    position:relative;
+    top: 1610px;
+    left: 780px;
+}
+
+.room2{
+    border: 5px solid red;
+    transform: rotate(-90deg);
+    scale: 1.4;
+
+    position:relative;
+    top: 1360px;
+    left: 565px;
+}
+.room3{
+    border: 5px solid red;
+    transform: rotate(-90deg);
+    scale: 1.4;
+
+    position:relative;
+    top: 1125px;
+    left: 395px;
+}
