@@ -1,6 +1,6 @@
 body{
     margin: 0px;
-    background: url(/Bilder/imageonline-co-noisedimage.png) no-repeat center center fixed ;
+    background: url(../Bilder/imageonline-co-noisedimage.png) no-repeat center center fixed ;
     background-size: cover;
 }
 .Ueberschriftbox{
@@ -9,7 +9,7 @@ body{
     text-shadow: 1px 1px 2px rgba(0, 255, 38, 0), 0 0 1em rgb(66, 255, 205, 0.5), 0 0 0.5em rgb(70, 255, 200, 0.5);
     font-size: 200%;
     letter-spacing: 0.25rem;
-    background-image: url(/Bilder/HTL-Moe-Sportplatz.jpg);
+    background-image: url(../Bilder/HTL-Moe-Sportplatz.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: auto;
