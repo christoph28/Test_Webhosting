@@ -3,7 +3,7 @@ body{
 }
 .Ueberschriftbox{
     font-family: Verdana, Arial, sans-serif;
-    background-image: url(/Bilder/HTL-Moe-Sportplatz.jpg);
+    background-image: url(../Bilder/HTL-Moe-Sportplatz.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     background-position: auto;
