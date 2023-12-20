@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+    background: url(/Bilder/imageonline-co-noisedimage.png) no-repeat center center fixed ;
+    background-size: cover;
+}
+.Ueberschriftbox{
+    font-family: Verdana, Arial, sans-serif;
+    background-image: url(/Bilder/HTL-Moe-Sportplatz.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: auto;
+    text-align: center;
+    -webkit-text-fill-color: rgb(0, 0, 0);
+    text-shadow: 1px 1px 2px rgba(0, 255, 38, 0), 0 0 1em rgb(66, 255, 205, 0.5), 0 0 0.5em rgb(70, 255, 200, 0.5);
+    font-size: 300%;
+    letter-spacing: 0.25rem;
+    display: table;
+    width: 100%;
+}
+.box{
+    background-color: rgb(0, 0, 0) ;
+    height: 20px;
+    width: 100%;
+}
+
+.Theobox{
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 2.5em;
+    text-shadow: 1px 1px 2px rgba(0, 255, 38, 0), 0 0 1em rgb(66, 255, 205, 0.5), 0 0 0.5em rgb(70, 255, 200, 0.5);
+    margin: 100px;
+}
+
+.Werkbox{
+    font-family: Verdana, Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 2.5em;
+    text-shadow: 1px 1px 2px rgba(0, 26, 255, 0), 0 0 1em rgba(66, 255, 205, 0.5), 0 0 0.5em rgba(70, 255, 200, 0.5);
+    margin: 100px ;
+}
